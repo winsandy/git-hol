@@ -23,9 +23,7 @@ This is an example of how you may give instructions on setting up the project lo
 Prerequisites
 This is an example of how to list things you need to use the software in your machine
 
-* GIT
-Read the following link 
-[https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+* GIT [https://git-scm.com/book/en/v2/Getting-Started-Installing-Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
 
 ## Installation
 Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
