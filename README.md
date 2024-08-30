@@ -46,5 +46,5 @@ Distributed under the MIT License. See LICENSE.txt for more information.
 Twitter - @winsandymyint 
 Email: winsandymyint@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/winsandy/git-hol)
+Project Link: [https://github.com/winsandy/git-hol](https://github.com/winsandy/git-hol)
 
