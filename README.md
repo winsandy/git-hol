@@ -43,7 +43,7 @@ You can also simply open an issue with the tag "enhancement". Don't forget to gi
 Distributed under the MIT License. See LICENSE.txt for more information.
 
 ## Contact
-Twitter - @winsandymyint 
+Twitter: @winsandymyint <br />
 Email: winsandymyint@gmail.com
 
 Project Link: [https://github.com/winsandy/git-hol](https://github.com/winsandy/git-hol)
